@@ -1,0 +1,1 @@
+{"id":"freecore-connection","name":"FreeCore Connection Diagnostics","version":"1.0.0","main":"com.freecore.connection.ConnectionPlugin","authors":["FreeCore"],"dependencies":[{"id":"floodgate","optional":true}]}
